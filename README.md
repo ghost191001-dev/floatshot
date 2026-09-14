@@ -1,4 +1,4 @@
-# FloatShot — Floating Adjustable Square Screenshot App
+# FloatShot — Floating Adjustable Square Screenshot Apps
 
 ## Kya hai ye
 Ek Android app jo:
