@@ -1,6 +1,6 @@
 # FloatShot — Floating Adjustable Square Screenshot Apps
 
-## Kya hai ye
+## Kya hai ye😊😊
 Ek Android app jo:
 - Screen par ek **floating icon** dikhata hai (drag kar sakte ho kahin bhi)
 - Icon tap karne par ek **adjustable (resizable, free) square frame** khulta hai — usse drag karke position aur bottom-right corner se resize kar sakte ho
